@@ -1,6 +1,7 @@
 {
     "name": "Shekinah Preschool Playgroup",
     "short_name": "Shekinah Preschool",
+    "start_url": "https://shekinahpreschool.co.uk",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
